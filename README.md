@@ -18,7 +18,7 @@ GitHub: https://github.com/marcosdevnew/DESAFIO-2
 
 ### 💻 Versão Desktop
 
-<img width="100%" src="./assets/desktop-preview.png">
+<img width="100%" src="./img/desktop-preview (2).png">
 
 ---
 
